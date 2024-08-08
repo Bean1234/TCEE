@@ -2,7 +2,7 @@
 
 This is the official code release of the following paper:
 
-Inductive Reasoning with Type-Constrained Encoding for Emerging Entities.  Accepted by Neural Network.
+Inductive Reasoning with Type-Constrained Encoding for Emerging Entities.  Accepted by Neural Networks.
 
 ## Quick Start
 
